@@ -3,14 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package javaapplication92;
-import MiPaquete.Tiempo;
+package sobrecarga;
 
 /**
  *
  * @author reroes
  */
-public class JavaApplication92 {
+public class SobreCarga {
 
     /**
      * @param args the command line arguments
