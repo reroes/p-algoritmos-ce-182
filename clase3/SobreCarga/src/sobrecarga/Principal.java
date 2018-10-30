@@ -42,7 +42,7 @@ public class Principal {
         double sueldo = scanner.nextDouble();
         t.agregar_sueldo(sueldo);
         
-        System.out.printf("Los datos del trabajador son: %s\n", t.presentar_datos());
+        System.out.printf("Los datos del trabajador son: %s\n", t);
         
                 
     }
